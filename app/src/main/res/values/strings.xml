@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Password Validator</string>
+    <string name="password_hint">Password</string>
+    <string name="include">Include</string>
+    <string name="a_z">a-z</string>
+    <string name="a_z_uppercase">A-Z</string>
+    <string name="digits">0-9</string>
+    <string name="symbol">Symbol</string>
+    <string name="chars">8 characters</string>
+</resources>
